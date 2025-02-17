@@ -12,7 +12,8 @@ Ensure you have the following installed:
 ## Setup & Installation
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/amjadAwad95/Bloom-Filiter.git)
+   git clone https://github.com/amjadAwad95/Bloom-Filiter.git
+   cd Bloom-Filiter
    ```
 2. Ensure the required dependencies are available in `build.sbt`:
    ```sbt
